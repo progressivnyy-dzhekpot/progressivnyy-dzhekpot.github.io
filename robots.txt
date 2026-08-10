@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Host: progressivnyy-dzhekpot.github.io
+Sitemap: https://progressivnyy-dzhekpot.github.io/sitemap.xml
